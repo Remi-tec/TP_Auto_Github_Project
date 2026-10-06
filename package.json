@@ -1,0 +1,20 @@
+{
+  "name": "tp_auto_github_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Remi-tec/TP_Auto_Github_Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Remi-tec/TP_Auto_Github_Project/issues"
+  },
+  "homepage": "https://github.com/Remi-tec/TP_Auto_Github_Project#readme"
+}
